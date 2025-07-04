@@ -51,9 +51,24 @@ It empowers users by giving them control over their data, generating transparent
 
 ---
 
-## 🧪 How to Run the Project
+File structure
+PrivAIlegiance/
+├── app.py           # Main application
+├── admin.py         # Optional log viewer
+├── logs.csv         # Auto-generated log file
+└── README.md        # You're reading this
 
-1. Clone this repository  
-2. Install dependencies:
-   ```bash
-   pip install streamlit pandas
+---
+🎯 Future Enhancements
+🔗 Integrate OpenAI GPT for smarter message generation
+📊 Add SHAP-based model explainability
+🔐 Encrypt logs and add user login
+📤 Export messages to email/CRM pipelines
+☁️ Deploy via Streamlit Share or Render
+
+👥 Team
+Team Name: PrevailLance
+Hackathon: Epsilon TeXpedition 2025
+Team Members: B.M. Madhuchandra
+              Chinmaya Kagolli
+
