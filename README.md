@@ -66,8 +66,7 @@ PrivAIlegiance/
 📤 Export messages to email/CRM pipelines
 ☁️ Deploy via Streamlit Share or Render
 
-👥 Team
-Team Name: PrevailLance
+👥 Team Name: PrivAIlegiance
 Hackathon: Epsilon TeXpedition 2025
 Team Members: B.M. Madhuchandra
               Chinmaya Kagolli
